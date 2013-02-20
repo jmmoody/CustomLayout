@@ -4,7 +4,7 @@ CustomLayout
 Example of Custom Collection View layout
 
 After failing to find a good example of how to set up a Custom Layout for the new Collection View in iOS 6 I decided
-to figure it out myself.  Here is the sample project that I have created to show you how it is done.  I have also 
+to figure it out myself.  Here is the sample project that I have created to show you one way to do it.  I have also 
 created a blog entry  http://jonmoodysrmobileapps.wordpress.com/  that has step by step instructions that allow you 
 to replicate this code as well as a video showing you exactly how to create this project.  All the code and resources 
 that I have used in this project are of my own creation and are free of any encumbering IP issues as far as I know.  
